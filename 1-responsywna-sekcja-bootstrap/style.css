@@ -1,0 +1,40 @@
+h1{
+    color: rgba(128, 128, 128, 0.648);
+    text-align: center;
+    font-weight: 300;
+}
+
+.circle{
+    color: rgba(255, 106, 0, 0.87);
+    font-size: 2em;
+    background-color: rgba(249, 246, 244, 0.944);
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    /* display: inline-block; */
+    /* position: static; */
+    
+}
+
+.icon{
+    position: relative;
+    top: 5px;
+}
+
+h6{
+    color: gray;
+    font-weight: 300;
+    /* margin-top: 60px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* top: 40px;
+    right: 50px; */
+    
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
